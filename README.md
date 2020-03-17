@@ -1,2 +1,2 @@
 # Old-SARS-Docs
-Various docs from teh Singapore SARS outbreak - may be useful for COVID
+Various docs from the Singapore SARS outbreak - may be useful for COVID
